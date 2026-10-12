@@ -1,0 +1,201 @@
+product_id,product_name,category,price,stock
+1,Televisi 1,Makanan,7216182,60
+2,Baju 2,Otomotif,9432765,196
+3,Mesin Cuci 3,Furniture,8999070,408
+4,Helm 4,Olahraga,11552794,69
+5,Sepeda 5,Otomotif,11418510,105
+6,Kursi 6,Pakaian,19047918,442
+7,Televisi 7,Elektronik,15669378,317
+8,Kulkas 8,Pakaian,19288601,1
+9,Lemari 9,Pakaian,5589744,323
+10,Headphone 10,Pakaian,17782922,367
+11,Televisi 11,Makanan,298481,132
+12,Kompor 12,Kecantikan,7540168,149
+13,Meja 13,Elektronik,18677447,397
+14,AC 14,Elektronik,11297265,356
+15,Headphone 15,Olahraga,760994,323
+16,Laptop 16,Otomotif,16476042,460
+17,Lemari 17,Olahraga,11720976,339
+18,Celana 18,Pakaian,6645003,207
+19,Sofa 19,Elektronik,13511490,267
+20,Televisi 20,Olahraga,10024911,102
+21,Kulkas 21,Pakaian,8428697,465
+22,Sepatu 22,Kecantikan,2242870,145
+23,Smartphone 23,Furniture,5658261,42
+24,Jam Tangan 24,Elektronik,8544792,133
+25,Laptop 25,Otomotif,17656933,194
+26,Laptop 26,Olahraga,19973013,143
+27,Televisi 27,Furniture,11165446,50
+28,Jam Tangan 28,Makanan,2715026,53
+29,Kipas Angin 29,Olahraga,19778775,72
+30,Smartphone 30,Furniture,9992092,124
+31,Kursi 31,Furniture,15098305,55
+32,Kompor 32,Kecantikan,7092449,67
+33,Headphone 33,Pakaian,8439937,313
+34,Sepatu 34,Elektronik,5915378,293
+35,Sepeda 35,Olahraga,13884558,409
+36,Kompor 36,Otomotif,3995584,18
+37,Mesin Cuci 37,Otomotif,9029831,50
+38,Laptop 38,Olahraga,11752403,44
+39,Kompor 39,Kecantikan,7218058,185
+40,Mesin Cuci 40,Pakaian,1727816,162
+41,Kompor 41,Makanan,19401746,183
+42,Kompor 42,Elektronik,7358721,204
+43,AC 43,Elektronik,18623739,68
+44,Mesin Cuci 44,Otomotif,12772553,134
+45,Sepatu 45,Otomotif,17127367,52
+46,Meja 46,Otomotif,2140251,85
+47,Headphone 47,Otomotif,13485291,108
+48,Mesin Cuci 48,Furniture,3030519,15
+49,Televisi 49,Olahraga,9232047,372
+50,Headphone 50,Furniture,5290498,393
+51,Kompor 51,Makanan,15371643,251
+52,AC 52,Pakaian,1159110,20
+53,Smartphone 53,Kecantikan,17469645,444
+54,Jam Tangan 54,Olahraga,12845931,189
+55,Sepatu 55,Pakaian,8778098,270
+56,Meja 56,Olahraga,12523781,470
+57,Sepeda 57,Olahraga,17876407,227
+58,Sofa 58,Kecantikan,13696271,251
+59,Headphone 59,Otomotif,6032237,258
+60,Helm 60,Elektronik,13611153,400
+61,Celana 61,Olahraga,8606126,459
+62,Kursi 62,Kecantikan,7071338,264
+63,Celana 63,Kecantikan,14744356,297
+64,Sofa 64,Elektronik,10365027,120
+65,Kulkas 65,Elektronik,9166300,44
+66,AC 66,Furniture,5869386,272
+67,Celana 67,Kecantikan,11803108,194
+68,Lemari 68,Elektronik,15571559,311
+69,Celana 69,Pakaian,2488010,476
+70,Celana 70,Otomotif,19144783,321
+71,Smartphone 71,Pakaian,2943892,99
+72,Kulkas 72,Kecantikan,14344174,441
+73,Kompor 73,Furniture,7422932,428
+74,Kursi 74,Otomotif,1265862,357
+75,Printer 75,Otomotif,18814799,111
+76,Meja 76,Otomotif,9437782,125
+77,Kulkas 77,Furniture,15947318,441
+78,Sepeda 78,Elektronik,17944214,460
+79,Kulkas 79,Elektronik,10169836,480
+80,Sepeda 80,Otomotif,16122916,46
+81,Baju 81,Otomotif,19286097,39
+82,Sofa 82,Otomotif,8025621,384
+83,Meja 83,Elektronik,14351780,77
+84,Kursi 84,Pakaian,10034708,188
+85,Lemari 85,Pakaian,8758462,15
+86,Televisi 86,Kecantikan,5856000,246
+87,Televisi 87,Otomotif,7481498,401
+88,Kipas Angin 88,Furniture,7163957,251
+89,Baju 89,Elektronik,8104928,154
+90,Mesin Cuci 90,Pakaian,10119991,116
+91,Smartphone 91,Furniture,1834065,154
+92,Celana 92,Olahraga,12784504,482
+93,AC 93,Kecantikan,5657812,429
+94,Printer 94,Makanan,9949055,307
+95,Mesin Cuci 95,Olahraga,7112613,333
+96,Smartphone 96,Kecantikan,5861709,418
+97,Helm 97,Otomotif,12509371,105
+98,Lemari 98,Kecantikan,11806766,214
+99,Helm 99,Otomotif,717824,496
+100,Jam Tangan 100,Elektronik,15786542,388
+101,Meja 101,Makanan,19321132,8
+102,Kompor 102,Otomotif,17332822,385
+103,Kulkas 103,Kecantikan,11455008,192
+104,AC 104,Elektronik,1556859,454
+105,Televisi 105,Olahraga,11678856,160
+106,Sofa 106,Kecantikan,3431558,95
+107,Kursi 107,Pakaian,3011440,225
+108,Lemari 108,Pakaian,9136030,333
+109,Mesin Cuci 109,Otomotif,9925976,293
+110,Mesin Cuci 110,Makanan,76638,329
+111,Sepeda 111,Makanan,18099716,491
+112,Printer 112,Makanan,11589967,14
+113,Kulkas 113,Pakaian,9307031,147
+114,Kursi 114,Makanan,14755998,69
+115,Sofa 115,Otomotif,8400802,237
+116,Helm 116,Otomotif,13259858,119
+117,Meja 117,Makanan,11787374,128
+118,Celana 118,Furniture,3359380,337
+119,Kompor 119,Makanan,226589,71
+120,Sepeda 120,Elektronik,8361059,278
+121,Kursi 121,Otomotif,10829678,352
+122,AC 122,Otomotif,3365500,292
+123,Jam Tangan 123,Pakaian,16061986,375
+124,Printer 124,Elektronik,4786603,247
+125,Sepatu 125,Kecantikan,11410774,21
+126,Meja 126,Elektronik,12776061,36
+127,Mesin Cuci 127,Olahraga,637889,376
+128,Smartphone 128,Elektronik,9822393,20
+129,Kursi 129,Kecantikan,4627760,284
+130,Jam Tangan 130,Olahraga,3399423,408
+131,Lemari 131,Makanan,1259401,398
+132,Kulkas 132,Makanan,1453428,243
+133,Mesin Cuci 133,Furniture,11853089,157
+134,Sepeda 134,Elektronik,6995906,366
+135,Laptop 135,Kecantikan,8422900,217
+136,Jam Tangan 136,Otomotif,7215740,354
+137,Kipas Angin 137,Makanan,18660406,331
+138,AC 138,Makanan,13053284,71
+139,Kursi 139,Otomotif,7795509,302
+140,Kipas Angin 140,Furniture,8010091,205
+141,AC 141,Elektronik,1427612,343
+142,Meja 142,Olahraga,7123195,338
+143,Meja 143,Furniture,16877318,117
+144,Sepatu 144,Kecantikan,1666943,451
+145,Kompor 145,Makanan,8491652,84
+146,Kipas Angin 146,Pakaian,7249138,48
+147,Celana 147,Kecantikan,14363761,28
+148,Mesin Cuci 148,Olahraga,13005605,44
+149,Helm 149,Kecantikan,9343182,436
+150,Laptop 150,Olahraga,6554185,176
+151,Televisi 151,Pakaian,17540518,455
+152,Baju 152,Furniture,18023117,394
+153,Mesin Cuci 153,Olahraga,1847582,29
+154,Printer 154,Olahraga,15963201,202
+155,Celana 155,Kecantikan,5178920,131
+156,Headphone 156,Pakaian,3206753,45
+157,Jam Tangan 157,Olahraga,6820251,478
+158,Meja 158,Makanan,16764309,405
+159,Televisi 159,Kecantikan,17150602,322
+160,Laptop 160,Makanan,4763427,68
+161,Headphone 161,Pakaian,10908056,411
+162,Kursi 162,Kecantikan,2828055,137
+163,Meja 163,Furniture,12747589,279
+164,Sofa 164,Olahraga,6986512,292
+165,Sepatu 165,Olahraga,4614021,461
+166,Jam Tangan 166,Otomotif,14054907,219
+167,Laptop 167,Makanan,16927251,80
+168,Televisi 168,Makanan,14125223,175
+169,Kulkas 169,Pakaian,19640883,306
+170,Baju 170,Olahraga,15583413,387
+171,Celana 171,Olahraga,12207976,59
+172,Kompor 172,Makanan,3081344,241
+173,Kipas Angin 173,Otomotif,3618405,230
+174,Laptop 174,Olahraga,17812551,86
+175,AC 175,Pakaian,4431861,482
+176,Televisi 176,Makanan,11381945,368
+177,Televisi 177,Olahraga,17579935,163
+178,Mesin Cuci 178,Furniture,12247914,489
+179,Baju 179,Olahraga,9222015,425
+180,Sepeda 180,Olahraga,7996655,190
+181,AC 181,Olahraga,8851233,123
+182,AC 182,Kecantikan,565615,163
+183,Sepatu 183,Furniture,2103612,137
+184,Baju 184,Pakaian,12691501,180
+185,Meja 185,Olahraga,1228077,247
+186,Kipas Angin 186,Pakaian,5773452,33
+187,Kursi 187,Olahraga,769321,308
+188,Helm 188,Kecantikan,11187232,412
+189,Sepatu 189,Furniture,7924975,263
+190,Sepeda 190,Makanan,5047811,267
+191,Mesin Cuci 191,Pakaian,17107379,271
+192,Printer 192,Elektronik,19008281,52
+193,Sofa 193,Pakaian,2507544,329
+194,Helm 194,Kecantikan,10863423,412
+195,Kipas Angin 195,Elektronik,12246295,264
+196,Printer 196,Pakaian,9921983,369
+197,Sofa 197,Pakaian,4199103,6
+198,Smartphone 198,Olahraga,1332087,410
+199,Smartphone 199,Kecantikan,8652582,273
+200,Printer 200,Kecantikan,11999226,256
