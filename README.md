@@ -1,5 +1,5 @@
 # TBD
-
+edit
 # Tugas Mandiri – Modul 2: Schema Tuning
 
 **Mata Kuliah** : SD3203 – Teknologi Basis Data
